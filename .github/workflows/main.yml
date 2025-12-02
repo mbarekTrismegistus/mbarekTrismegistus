@@ -22,6 +22,23 @@ jobs:
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: icons
+          plugin_topics_custom: |
+            elixir
+            pheonix
+            nextjs
+            linux
+            reactjs
+            laravel
+            java
+            springboot
+            javascript
+            typescript
+            tailwindcss
+            php
+            bun
+            nodejs
+            docker
+            angular
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
