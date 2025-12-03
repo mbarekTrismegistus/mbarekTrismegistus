@@ -1,6 +1,10 @@
 # As above, So below
 
 ## I'm Mbarek ETTALEBY and I'm full Stack web dev
+<img
+    src="https://fauux.neocities.org/LainDressSlow.gif"
+    alt="Current Spotify Song"
+  />
 
 [![My Skills](https://skillicons.dev/icons?i=elixir,linux,nextjs,prisma,py,react,nginx,nodejs,php,express,git,mongodb,mysql,postgres,neovim,supabase,pheonix,angular,arch,aws,bash,bootstrap,docker,js,ts,html,css,java,laravel)](https://skillicons.dev)
 
