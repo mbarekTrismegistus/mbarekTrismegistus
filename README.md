@@ -7,7 +7,7 @@
 # Currently listening to: 
 <a href="http://141.145.208.139:5000/link">
   <img
-    src="http://141.145.208.139:5000"
+    src="http://141.145.208.139:5000?scan=true&eq_color=rainbow&theme=dark"
     alt="Current Spotify Song"
   />
 </a>
