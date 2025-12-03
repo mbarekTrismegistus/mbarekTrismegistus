@@ -15,3 +15,7 @@
     alt="Current Spotify Song"
   />
 </a>
+
+# Global stats
+![Metrics](https://metrics.lecoq.io/mbarekTrismegistus?template=classic&base.header=0&gists=1&lines=1)
+
