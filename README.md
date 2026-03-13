@@ -8,13 +8,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=elixir,linux,nextjs,prisma,py,react,nginx,nodejs,php,express,git,cloudflare,mongodb,mysql,postgres,supabase,grafana,figma,php,angular,arch,aws,bash,docker,js,css,java,laravel)](https://skillicons.dev)
 
-# Currently listening to: 
-<a href="http://141.145.208.139:5000/link">
-  <img
-    src="http://141.145.208.139:5000?eq_color=rainbow&theme=dark"
-    alt="Current Spotify Song"
-  />
-</a>
 
 
 
