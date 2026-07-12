@@ -1,6 +1,4 @@
-# As above, So below
-
-## I'm Mbarek ETTALEBY and I'm full Stack web dev
+## I'm Mbarek ETTALEBY, A Software Engineer
 <img
     src="https://fauux.neocities.org/LainDressSlow.gif"
     alt="Current Spotify Song"
