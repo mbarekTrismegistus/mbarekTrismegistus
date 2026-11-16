@@ -1,7 +1,6 @@
 ## I'm Mbarek ETTALEBY, A Software Engineer
 <img
-    src="https://fauux.neocities.org/LainDressSlow.gif"
-    alt="Current Spotify Song"
+    src="https://fauux.neocities.org/LainDiss3.gif"
   />
 
 [![My Skills](https://skillicons.dev/icons?i=elixir,linux,nextjs,prisma,py,react,dart,flutter,nginx,nodejs,php,express,git,cloudflare,mongodb,mysql,postgres,supabase,grafana,figma,php,angular,arch,aws,bash,docker,js,css,java,laravel,spring)](https://skillicons.dev)
