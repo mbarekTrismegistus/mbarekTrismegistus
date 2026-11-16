@@ -1,6 +1,6 @@
 ## I'm Mbarek ETTALEBY, A Software Engineer
 <img
-    src="https://fauux.neocities.org/insomnia.gif"
+    src="https://fauux.neocities.org/mebious_icon_02.gif"
   />
 
 [![My Skills](https://skillicons.dev/icons?i=elixir,linux,nextjs,prisma,py,react,dart,flutter,nginx,nodejs,php,express,git,cloudflare,mongodb,mysql,postgres,supabase,grafana,figma,php,angular,arch,aws,bash,docker,js,css,java,laravel,spring)](https://skillicons.dev)
